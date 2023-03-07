@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CharlizardG
 - 👀 I’m interested in sketching and climbing
 - 🌱 I’m currently learning c++ programming
-- 💞️ I’m looking to collaborate on twitter.com
 - 📫 How to reach me https://twitter.com/realCGultekin 
 - 📫 or alternatively https://www.linkedin.com/in/charlie-g-727095229/ for formal work/recruitment 
 <!---
